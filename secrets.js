@@ -1,0 +1,1 @@
+const apiKey = "wJalrXUtnLAMI/K7MDENG/bPxRfiCYEXAMPLEKEYqsKJD"
