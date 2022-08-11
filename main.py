@@ -1,1 +1,1 @@
-stripe_key = "sk_live_epIDKOSkdeXov2frTey7RHAi"
+stripe_key = "sk_live_epJDILSkdeXov2frTey7RHAi"
