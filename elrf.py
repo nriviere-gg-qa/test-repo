@@ -1,4 +1,2 @@
-apikey = 'tskey-scim-KLhPYEFsmnWr-oWX9N5XkoRbpVOlEKnCzfuwrc4g9SehlA'
 
-
-connection_uri = 'redshift://9wr:1h8RfUOuuHupu7*ux6Kuqt@247.251.250.207:712'
+apikey = 'patqZcIZccgc4xssy.97cc10c9c98d44cf6408a0acb57e0d5263219b31cbd108f706c5733394741277'
